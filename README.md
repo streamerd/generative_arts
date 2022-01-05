@@ -43,11 +43,6 @@ with this tool, initially exploring some tools and filters, as well as to open a
 
 from here and now on, future generations and regenerations, will be built in a branched fashion to be minted on blockchain, 
 
-<audio
-  src="https://codepen.io/team/codepen/embed/preview/PNaGbb"
-  style="width:100%; height:300px;"
-></audio>
-
 eg.  // as individual `ERC721`s and mostly, as `ERC1155` sets.
 
 `EIP-2981` will also be tried for those to include a globally accessible royalty information, residing in NFTs' metadata files.
