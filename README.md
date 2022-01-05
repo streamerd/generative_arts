@@ -2,7 +2,11 @@
 
 back in 2021, tried to regenerate some of my drawings and paintings with open /source and for use/ libraries and tools out there. 
 
-initially explored `noisfy`at `generated.space`, and  published at:
+initially explored `noisfy`at `generated.space` 
+
+![some generations][project_arg_some_gens]
+
+and those `machine interpretations` published at:
 
 https://www.behance.net/gallery/128199015/
 
@@ -42,6 +46,7 @@ https://generated.space/sketch/noisify/
 
 
 
+ [project_arg_some_gens]: visual/outcomes/noisify/project_arg_some_gens.png
 
 
 

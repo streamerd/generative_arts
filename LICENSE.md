@@ -23,6 +23,4 @@ in ERC1155 case, they'll receive a number of copies of regeneration (audio)visua
 
 a new standard on ethereum smart contracts, `EIP-2981` will be tried for those to include a globally accessible royalty information, residing in NFTs' metadata files.
 
-on EIP-2981
-
-https://eips.ethereum.org/EIPS/eip-2981
+on EIP-2981 > https://eips.ethereum.org/EIPS/eip-2981
