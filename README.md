@@ -2,7 +2,7 @@
 
 back in 2021, tried to regenerate some of my drawings and paintings with open /source and for use/ libraries and tools out there. 
 
-initially explored `noisfy` @ `generated.space` 
+initially explored `noisfy` @ `generated.space`: https://generated.space  
 
 
 ![some generations][project_arg_some_gens]
