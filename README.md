@@ -18,10 +18,6 @@ https://www.behance.net/gallery/128199015/
 ---
 
 
-
-![rabbit-holed-moshed-animated][rabbit-holed-moshed-animated]
-`rabbit-holed` 
-
 < first animated version, beating like heart >
 
 in this repo (in near future), will be including generated audio from an existing repo and include them as code, as well.
