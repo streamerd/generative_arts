@@ -8,19 +8,13 @@ initially explored `noisfy` @ `generated.space`: https://generated.space
 ![some generations][project_arg_some_gens]
 
 
-and those `machine interpretations` published at:
-
-https://www.behance.net/gallery/128199015/
+aka.`machine interpretations` 
 
 ---
 `something unique,` `something real.`
 
 ---
 
-
-
-![rabbit-holed-moshed-animated][rabbit-holed-moshed-animated]
-`rabbit-holed` 
 
 < first animated version, beating like heart >
 
